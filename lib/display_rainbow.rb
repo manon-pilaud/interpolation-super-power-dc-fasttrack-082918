@@ -1,3 +1,3 @@
 def display_rainbow (colors)
-  puts 
-  
+  puts "#{colors[i].initals: #{colors[i]}""
+end 
